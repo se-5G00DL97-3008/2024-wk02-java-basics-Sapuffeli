@@ -18,8 +18,8 @@ class E02 {
 
         //printing results
         System.out.println(inputOne + " + "+inputTwo + " = "+ sum);
-        System.out.println(inputOne + " * "+inputTwo + " = "+ product);
         System.out.println(inputOne + " - "+inputTwo + " = "+ difference);
+        System.out.println(inputOne + " * "+inputTwo + " = "+ product);
         System.out.println(inputOne + " / "+inputTwo + " = "+ quontinent);
 
         //closing scanner
