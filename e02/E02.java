@@ -7,7 +7,7 @@ class E02 {
         //getting user input
         System.out.println("Give a number: ");
         int inputOne= scanner.nextInt();
-        System.out.println("Give another number: ");
+        System.out.println("Give a number: ");
         int inputTwo= scanner.nextInt();
 
         //calculations
