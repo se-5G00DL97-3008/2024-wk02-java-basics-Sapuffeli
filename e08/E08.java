@@ -7,7 +7,7 @@ class E08 {
         int toPlay = 1;
         //while loop to which includes the main program
         while (toPlay==1) {
-            System.out.println("Enter a number (0 to quit)");
+            System.out.println("Give a number (0 to quit)");
             int userInput = scanner.nextInt();
 
             //if stucture to check if input is even or odd

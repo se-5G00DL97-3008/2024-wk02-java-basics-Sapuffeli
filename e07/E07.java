@@ -4,13 +4,13 @@ class E07 {
         //creating scanner obj
         Scanner scanner= new Scanner(System.in);
         //getting user input
-        System.out.println("Which multiplicand multiplication table to show?");
+        System.out.println("Which multiplication table to show?");
         int userInput = scanner.nextInt();
-        System.out.println("Until which multiplyer?");
+        System.out.println("Until which multiplyer should the table show?");
         int biggestMultiplicand = scanner.nextInt();
         
         //for loop to handle the multiplication calculations and printing out the product
-        for(int i = 1; i <=biggestMultiplicand;i++){
+        for(int i = 0; i <=biggestMultiplicand;i++){
             System.out.println(userInput + " x " + i + " = " + (userInput*i));
         }
         //closing scanner

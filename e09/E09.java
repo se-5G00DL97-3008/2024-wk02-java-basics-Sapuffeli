@@ -8,7 +8,7 @@ class E09 {
         double count=0;
 
         while (true) {
-            System.out.println("Give a test score (-1 to quit): ");
+            System.out.println("Give a test score (-1 to quit):");
             double input= scanner.nextDouble();
 
             //checking if user wants to quit and if not the program continues to work and calculate the average and print it

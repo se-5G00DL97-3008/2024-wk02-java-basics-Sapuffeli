@@ -5,7 +5,7 @@ class E05 {
         Scanner scanner = new Scanner(System.in);
 
         //getting user input
-        System.out.println("Enter a number: ");
+        System.out.println("Enter a number:");
         int day= scanner.nextInt();
         //switch structure to print the corresponding day
         switch (day) {
@@ -22,7 +22,7 @@ class E05 {
                 System.out.println("Thursday");
                 break;
             case 5:
-                System.out.println("Fri");
+                System.out.println("Friday");
                 break;
             case 6:
                 System.out.println("Saturday");

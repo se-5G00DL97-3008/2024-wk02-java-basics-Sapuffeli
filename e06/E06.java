@@ -8,7 +8,7 @@ class E06 {
         int userInput = scanner.nextInt();
         
         //for loop to handle the multiplication calculations and printing out the product
-        for(int i = 1; i <=10;i++){
+        for(int i = 0; i <=10;i++){
             System.out.println(userInput + " x " + i + " = " + (userInput*i));
         }
         //closing scanner
