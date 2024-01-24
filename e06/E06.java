@@ -9,7 +9,7 @@ class E06 {
         
         //for loop to handle the multiplication calculations and printing out the product
         for(int i = 0; i <=10;i++){
-            System.out.println(userInput + " x " + i + " = " + (userInput*i));
+            System.out.println(i + " x " + userInput + " = " + (userInput*i));
         }
         //closing scanner
         scanner.close();
