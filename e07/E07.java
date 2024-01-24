@@ -6,7 +6,7 @@ class E07 {
         //getting user input
         System.out.println("Which multiplication table to show?");
         int userInput = scanner.nextInt();
-        System.out.println("Until which multiplyer should the table show?");
+        System.out.println("Until which multiplier should the table show?");
         int biggestMultiplicand = scanner.nextInt();
         
         //for loop to handle the multiplication calculations and printing out the product
