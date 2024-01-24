@@ -22,7 +22,7 @@ class E05 {
                 System.out.println("Thursday");
                 break;
             case 5:
-                System.out.println("Friday");
+                System.out.println("Fri");
                 break;
             case 6:
                 System.out.println("Saturday");
