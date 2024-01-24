@@ -5,9 +5,9 @@ class E02 {
         Scanner scanner = new Scanner(System.in);
 
         //getting user input
-        System.out.print("Give a number: ");
+        System.out.println("Give a number: ");
         int inputOne= scanner.nextInt();
-        System.out.print("Give another number: ");
+        System.out.println("Give another number: ");
         int inputTwo= scanner.nextInt();
 
         //calculations
